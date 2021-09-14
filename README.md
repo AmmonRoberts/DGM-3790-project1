@@ -3,7 +3,7 @@ This project is for my DGM3790 course at UVU. This React app will eventually dis
 
 ## Features
 - Imports a ton of information about different countries from a local JSON file
-- Dynamically creates information cards usning a combination of custom components and comnents from @material-ui/core
+- Dynamically creates information cards usning a combination of custom components and components from @material-ui/core
 - There's over 200 different countries in here, so it dynamically breaks the cards up into rows of 3 to help keep things nice and orderly
 - For now, each card only shows each country's name, subregion and region, but more information will be used later on
 
